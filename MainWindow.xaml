@@ -1,0 +1,10 @@
+﻿<Window 
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        Title="Username Temple | ByDenisRafi" Height="160" Width="350">
+    <StackPanel Margin="10">
+        <Label>Username:</Label>
+        <TextBox />
+        <Label>Password:</Label>
+        <PasswordBox MaxLength="5" PasswordChar="*" />
+    </StackPanel>
+</Window>
